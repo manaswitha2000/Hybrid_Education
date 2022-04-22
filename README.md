@@ -6,7 +6,7 @@
 - Everyting is peer-to-peer thanks to webrtc
 
 
-### Local setup to rn the application 
+### Local setup to run the application 
 
 1. npm install
 2. npm run dev
